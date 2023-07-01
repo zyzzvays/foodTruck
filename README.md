@@ -13,3 +13,6 @@ The town is a grid, with blocks that are all one unit long.
 There are four houses per block, one on each corner.
 Houses are identified by which crossroad (the coordinates) they reside on, no matter which corner of the crossroad it is.
 The food truck will also be placed on a crossroad.
+
+
+The solution I provided was inspired by the pathing that modern day micromice use in Maze-Solving competitions. More info here: https://www.youtube.com/watch?v=ZMQbHMgK2rw
